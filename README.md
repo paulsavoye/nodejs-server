@@ -7,8 +7,8 @@ Native NodeJS headless blog CMS (without express). The CMS have a public route t
 
 Make sure you have [Node.js](http://nodejs.org/) installed.
 ```sh
-$ git clone https://github.com/paulsavoye/nodejs_server.git
-$ cd nodejs_server
+$ git clone https://github.com/paulsavoye/nodejs-server.git
+$ cd nodejs-server
 $ npm install
 $ npm start
 ```
@@ -18,7 +18,7 @@ Make sure you exported HOSTNAME, DB_URL and PORT environement variables or creat
 **`.env`**
 ```sh
 HOSTNAME=localhost
-DB_URL="mongodb://localhost:27017/nodejs_server"
+DB_URL="mongodb://localhost:27017/nodejs-server"
 PORT=8080
 ```
 
