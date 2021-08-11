@@ -18,7 +18,7 @@ Make sure you exported HOSTNAME, DB_URL and PORT environement variables or creat
 **`.env`**
 ```sh
 HOSTNAME=localhost
-DB_URL=""mongodb://localhost:27017/nodejs_server"
+DB_URL="mongodb://localhost:27017/nodejs_server"
 PORT=8080
 ```
 
